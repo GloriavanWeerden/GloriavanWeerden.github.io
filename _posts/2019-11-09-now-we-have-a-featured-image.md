@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Now we have a featured image
+title: About
 date: '2019-11-09 16:38:39'
-thumbnail: /images/uploads/invention-industrial-steampunk.jpg
+thumbnail: /images/uploads/screen-shot-2019-11-25-at-7.29.52-pm.png
 tags: featured image
 ---
-Hmmm. We will need to furnish alt and title from the article. It is a little strange too.
+My name is Gloria van Weerden. I was born and raised in Guelph, ON.
