@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Education
+title: 2020 Subaru Outback
 date: '2019-11-25 19:38:58'
-thumbnail: /images/uploads/29425706_104766750368146_8698578542826356736_o.jpg
+thumbnail: /images/uploads/subaru.jpg
 ---
-For Grades 9 to 12, I attended Emmanuel Christian High School in Fergus, ON, where I was voted Class Valedictorian.
+Subaru's new 2020 Outback has been greatly applauded for the User Experience Design it presents withing its dashboard. It was included within the top ten Best UX by Ward Auto.  What was particularly noted from the Outback's design was the EyeSight Driver Assist Technology.
