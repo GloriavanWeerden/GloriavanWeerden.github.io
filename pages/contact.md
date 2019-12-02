@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Contact
-id: contact
 ---
+Email: gloria.vanweerden@gmail.com
 
-This is my contact page!!!!
+Phone: (519)
