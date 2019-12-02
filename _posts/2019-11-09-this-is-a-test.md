@@ -1,9 +1,8 @@
 ---
 layout: default
-title: This is a test
+title: Chapel-like Retreat
 date: '2019-11-09 16:28:16'
+thumbnail: /images/uploads/ducth-cabin.jpg
 tags: entrepreneurship
-thumbnail: /images/uploads/2016_global_entrepreneurship_summit_logo_color_800_1.jpg
 ---
-
-Changing this now. I don't know why it is so strange????
+This cabin was constructed in the north of the Netherlands, as a retreat for metropolitan dwellers hoping to escape the digital pollution. The design incorporates poplar arches as support. The arches create a dome structure, much like that of a chapel. In historic religious architecture, this shape marked the shelter between what was on earth and the supernatural.
