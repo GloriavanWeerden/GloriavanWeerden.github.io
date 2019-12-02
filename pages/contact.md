@@ -4,4 +4,4 @@ title: Contact
 ---
 Email: gloria.vanweerden@gmail.com
 
-Phone: (519)
+Phone: (519)\*\*\*-\*\*\**
