@@ -15,3 +15,4 @@ There are 4 levers that you can use to make this your own.
 
 I will be providing more detail on each option in the following.
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/f1f120c6-075a-4425-bff8-4453fcea2816/deploy-status)](https://app.netlify.com/sites/serene-noyce-fe3bb0/deploys)
