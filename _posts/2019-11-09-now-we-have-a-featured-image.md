@@ -1,8 +1,8 @@
 ---
 layout: default
-title: About
+title: Lion Studios
 date: '2019-11-09 16:38:39'
-thumbnail: /images/uploads/screen-shot-2019-11-25-at-7.29.52-pm.png
+thumbnail: /images/uploads/logo.jpg
 tags: featured image
 ---
-My name is Gloria van Weerden. I was born and raised in Guelph, ON.
+This logo is for the game and app design business called Lion Studios
