@@ -7,4 +7,4 @@ I was born and raised in Guelph, Ontario, where I went to Cornerstone Christian 
 
 In addition to this, I was the part-time employee at the family business, Rathfon Machine and Tool, till the closure in 2018.
 
-In conclusion, I would say that I am a dependable worker,
+In conclusion, I would say that I am a dependable worker, who enjoys finishing jobs in a complete and thorough manner.
