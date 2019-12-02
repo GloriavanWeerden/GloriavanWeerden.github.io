@@ -1,7 +1,6 @@
 ---
 layout: default
 title: About
-id: about
+thumbnail: /images/uploads/screen-shot-2019-11-25-at-7.29.52-pm.png
 ---
-
-This is my about page!!!!
+I was born and raised in Guelph, Ontario.
