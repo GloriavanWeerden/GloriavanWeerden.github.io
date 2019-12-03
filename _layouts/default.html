@@ -60,7 +60,7 @@
 
 		<section>
 			{% if current.thumbnail %}
-                <img src="{{ current.thumbnail }}" alt="{{ current.title }}" title="{{ current.title }}" width="600px" align="middle" padding="10px"/>
+                <img src="{{ current.thumbnail }}" alt="{{ current.title }}" title="{{ current.title }}" width="600" align="middle" padding="10px"/>
             {% endif %}
             <div id="title">
 				<h1>{{ current.title }}</h1>
@@ -82,7 +82,7 @@
                                 <div class="card-body">
                                     <a href="{{ post.url }}">
                                         {% if post.thumbnail %}
-                                            <img src="{{ post.thumbnail }}" alt="{{ post.title }}" title="{{ post.title }}" align="middle" padding="10px"/>
+                                            <img src="{{ post.thumbnail }}" alt="{{ post.title }}" title="{{ post.title }}" align="middle" padding="100"/>
                                         {% endif %}
                                     </a>
                                 </div>
