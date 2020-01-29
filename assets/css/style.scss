@@ -2,7 +2,7 @@
 ---
 body{ 
 	font: georgia, sans-serif;
-  color: white; 
+  color: #FFFFFF; 
   background-color: #39956D;
 }
 img{
@@ -14,4 +14,26 @@ wraper{
   margin-right: auto;
   width: 80%; }
 
-header{background-color: white;}
+header{background-color: #FFFFFF
+
+ul{
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+	background-color: #FFFFFF;
+	}
+li {
+	float: left;
+	}
+li a {
+	display: block;
+	color: #FFFFFF;
+	text-align: center;
+	padding: 14px 16px;
+	text-decoration: none;
+	}
+/* Change the link cover to #000000 on hover */
+	li a: hover {
+		background color: #000000;
+		}
