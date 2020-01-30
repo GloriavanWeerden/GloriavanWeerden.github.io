@@ -1,13 +1,11 @@
 ---
 ---
 body{ 
-	font: sans-serif;
-  color: #FFFFFF; 
-  background-color: #39956D;}
-img{
-  max-width: 100%;}
+	font: sans-serif; 
+  background-color: #39956D;
+  align= "middle"}
 
-wrapper{
+wrapper container{
   margin-left: auto;
   margin-right: auto;
   width: 80%; }
@@ -32,7 +30,6 @@ li {
 	float: left;}
 li a {
 	display: block;
-	color: #FFFFFF;
 	text-align: center;
 	padding: 14px 16px;
 	text-decoration: none;}
