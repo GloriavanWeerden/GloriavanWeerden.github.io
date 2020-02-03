@@ -1,34 +1,40 @@
 ---
 ---
-body{ 
+#body{ 
 	font: sans-serif; 
   background-color: #39956D;}
 
-wrapper container{
+#wrapper container{
   margin-left: auto;
   margin-right: auto;
   width: 80%; }
 
-.header{color: #39956D;
+#.header{color: #39956D;
 	background-color: #FFFFFF;
 	overflow: hidden;}
-.header a {
+#.header a {
 	float: left;
 	color: #f2f2f2;
 	text-align: center;
 	padding: 14px 16px;
 	text-decoration: none;
 	font-size: 17px;}
-ul{
+#ul{
 	list-style-type: none;
 	margin: 0;
 	padding: 0;
 	overflow: hidden;
 	background-color: #FFFFFF;}
-li {
+#li {
 	float: left;}
-li a {
+#li a {
 	display: block;
 	text-align: center;
 	padding: 14px 16px;
 	text-decoration: none;}
+@import "bootstrap.min.css";
+
+img{
+  max-width: 100%;
+
+}
